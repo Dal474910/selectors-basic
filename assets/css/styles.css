@@ -59,3 +59,14 @@ h3{
     border-radius: 999px;
     margin-bottom: 18px;
 }
+
+.note {
+    background-color: rgb(233, 249, 228);
+    color: #33402f;
+    border: 2px solid white;
+    border-left: 6px solid rgb(116, 185, 118);
+    padding: 18px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border-radius: 14px;
+}
