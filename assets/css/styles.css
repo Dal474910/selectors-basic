@@ -46,3 +46,16 @@ h3{
     margin-top: 28px;
     color: rgb(194, 79, 126);
 }
+
+#site-title {
+    display: inline-block;
+    background-color: rgb(225, 109, 154);
+    color: white;
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 0.08rem;
+    text-transform: uppercase;
+    padding: 9px 15px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+}
