@@ -19,4 +19,30 @@ article {
 
 p{
     color: rgba(48, 43, 61, 0.72);
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #41345c;  
+  font-family: "DM Sans", Arial, Helvetica, sans-serif;
+  border-bottom: 2px solid rgb(226, 214, 247);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h1{
+    font-size: 2.8rem;
+    line-height: 1.05;
+    margin-bottom: 18px;
+    color: #6e4bc3;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+h3{
+    margin-top: 28px;
+    color: rgb(194, 79, 126);
 }
